@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cougstival Leaderboard</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1a1a1a; --muted: #5f6670; --line: #e3e6ea; --accent: #0a4aa6;
+    --chip: #f1f3f6; --warn-bg: #fff3cd; --warn-fg: #664d03; --open: #1a7f37;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121417; --fg: #eceff3; --muted: #9aa3ad; --line: #2a2f36; --accent: #7fb0ff;
+      --chip: #1c2127; --warn-bg: #3a3000; --warn-fg: #ffe69c; --open: #4cc26a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 16px; }
+  h1 { font-size: 1.4rem; margin: 0 0 12px; }
+  [role=tablist] { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 8px; }
+  [role=tab] {
+    flex: none; border: 1px solid var(--line); background: var(--chip); color: var(--fg);
+    padding: 8px 14px; border-radius: 999px; font: inherit; cursor: pointer;
+  }
+  [role=tab][aria-selected=true] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  [role=tab]:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 12px 0; }
+  .status { font-weight: 600; }
+  .status.open { color: var(--open); }
+  .muted { color: var(--muted); font-size: .9rem; }
+  .spacer { flex: 1; }
+  #refresh { border: 1px solid var(--accent); background: transparent; color: var(--accent); padding: 6px 14px; border-radius: 8px; font: inherit; cursor: pointer; }
+  #refresh:disabled { opacity: .6; cursor: default; }
+  .banner { background: var(--warn-bg); color: var(--warn-fg); padding: 10px 12px; border-radius: 8px; margin: 12px 0; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 8px 6px; border-bottom: 1px solid var(--line); text-align: left; }
+  th { font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  td.rank { width: 3.2rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+  td.pts, th.pts { text-align: right; font-variant-numeric: tabular-nums; }
+  td.name { overflow-wrap: anywhere; }
+  tr.top td { font-weight: 600; }
+  .empty { padding: 24px 0; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Cougstival Leaderboard</h1>
+  <div id="tabs" role="tablist" aria-label="Leaderboards"></div>
+  <div id="banner" class="banner" hidden></div>
+  <div class="bar">
+    <span id="status" class="status"></span>
+    <span id="updated" class="muted"></span>
+    <span class="spacer"></span>
+    <button id="refresh" type="button">Refresh</button>
+  </div>
+  <p id="note" class="muted" hidden></p>
+  <div id="board" aria-live="polite"></div>
+</main>
+
+<script>
+const TZ = "America/Denver";
+const STALE_MIN = 60;
+let data = null;
+let current = null;
+
+const fmt = (iso, opts) => new Intl.DateTimeFormat("en-US", { timeZone: TZ, ...opts }).format(new Date(iso));
+const when = iso => fmt(iso, { weekday: "short", hour: "numeric", minute: "2-digit" });
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const $ = id => document.getElementById(id);
+
+function defaultTab(d) {
+  const open = d.days.find(x => x.status === "open");
+  if (open) return open.name;
+  if (d.days.every(x => x.status === "closed")) return "Total";
+  const closed = d.days.filter(x => x.status === "closed");        // evening between days: show the day that just closed
+  return closed.length ? closed[closed.length - 1].name : d.days[0].name;
+}
+
+function render() {
+  if (!data) return;
+  const names = [...data.days.map(d => d.name), "Total"];
+  if (!names.includes(current)) current = defaultTab(data);
+
+  const tabs = $("tabs");
+  tabs.replaceChildren(...names.map(n => {
+    const b = el("button", null, n);
+    b.setAttribute("role", "tab");
+    b.setAttribute("aria-selected", String(n === current));
+    b.onclick = () => { current = n; location.hash = n; render(); };
+    return b;
+  }));
+
+  const day = data.days.find(d => d.name === current);
+  const status = $("status"), note = $("note");
+  if (day) {
+    status.className = "status " + day.status;
+    status.textContent = day.status === "open" ? `Open · closes ${when(day.closes)}`
+      : day.status === "closed" ? "Closed · final" : `Opens ${when(day.opens)}`;
+    note.hidden = true;
+  } else {
+    status.className = "status";
+    status.textContent = "Overall total";
+    const n = data.total.outside_points;
+    note.hidden = !n;
+    note.textContent = `Includes ${n.toLocaleString()} points earned outside the daily windows (evenings after each day closes, or before the event). These count toward the Total only.`;
+  }
+
+  const rows = day ? day.rows : data.total.rows;
+  const board = $("board");
+  if (!rows.length) { board.replaceChildren(el("p", "empty", "No points on the board yet.")); }
+  else {
+    const table = el("table");
+    const head = el("tr");
+    [["Rank", "rank"], ["Name", "name"], ["Points", "pts"]].forEach(([t, c]) => { const th = el("th", c, t); th.scope = "col"; head.append(th); });
+    const thead = el("thead");
+    thead.append(head);
+    table.append(thead);
+    const body = el("tbody");
+    rows.forEach(r => {
+      const tr = el("tr", r.rank <= 3 ? "top" : null);
+      tr.append(el("td", "rank", r.rank), el("td", "name", r.name), el("td", "pts", r.points.toLocaleString()));
+      body.append(tr);
+    });
+    table.append(body);
+    board.replaceChildren(table);
+  }
+  tick();
+}
+
+// "Updated 3 min ago" and the out-of-date warning, re-checked every 30 seconds.
+function tick() {
+  if (!data) return;
+  const mins = Math.floor((Date.now() - new Date(data.updated)) / 60000);
+  const ago = mins < 1 ? "just now" : mins === 1 ? "1 min ago" : mins < 120 ? `${mins} min ago` : `${Math.floor(mins / 60)} hr ago`;
+  $("updated").textContent = `Updated ${ago} (${when(data.updated)} MT)`;
+  const live = data.days.some(d => !d.frozen);
+  const banner = $("banner");
+  banner.hidden = !(live && mins >= STALE_MIN);
+  banner.textContent = "These numbers may be out of date. Updates have not come in for over an hour.";
+}
+
+async function load(fromButton) {
+  const btn = $("refresh");
+  if (fromButton) { btn.disabled = true; btn.textContent = "Refreshing…"; }
+  try {
+    const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    render();
+  } catch (e) {
+    if (!data) $("board").replaceChildren(el("p", "empty", "Couldn't load the leaderboard. Try Refresh in a moment."));
+    else { $("banner").hidden = false; $("banner").textContent = "Couldn't refresh just now. Showing the last numbers loaded."; }
+  } finally {
+    btn.disabled = false; btn.textContent = "Refresh";
+  }
+}
+
+current = decodeURIComponent(location.hash.slice(1)) || null;
+$("refresh").onclick = () => load(true);
+setInterval(tick, 30000);
+setInterval(load, 5 * 60000);
+load();
+</script>
+</body>
+</html>
