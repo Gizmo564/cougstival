@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:20:00.059166-07:00",
+ "updated": "2026-11-10T06:40:00.052173-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -2065,23 +2065,23 @@
     },
     {
      "rank": 4,
+     "name": "Grace Watkins",
+     "points": 1070
+    },
+    {
+     "rank": 5,
      "name": "Alexander Peeni",
      "points": 900
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Ainsley",
      "points": 500
     },
     {
-     "rank": 6,
+     "rank": 7,
      "name": "Emiliano",
      "points": 450
-    },
-    {
-     "rank": 7,
-     "name": "Grace Watkins",
-     "points": 420
     },
     {
      "rank": 8,
@@ -2096,7 +2096,7 @@
     {
      "rank": 10,
      "name": "Trisha Stevens",
-     "points": 350
+     "points": 370
     },
     {
      "rank": 11,
@@ -2145,21 +2145,26 @@
     },
     {
      "rank": 20,
+     "name": "Elly Shumaker",
+     "points": 100
+    },
+    {
+     "rank": 20,
      "name": "K8theGr8",
      "points": 100
     },
     {
-     "rank": 21,
+     "rank": 22,
      "name": "Mari",
      "points": 50
     },
     {
-     "rank": 21,
+     "rank": 22,
      "name": "PatoB",
      "points": 50
     },
     {
-     "rank": 21,
+     "rank": 22,
      "name": "Trevor J",
      "points": 50
     }
@@ -2257,13 +2262,13 @@
    },
    {
     "rank": 12,
-    "name": "Larkin",
-    "points": 4575
+    "name": "Grace Watkins",
+    "points": 5050
    },
    {
     "rank": 13,
-    "name": "Grace Watkins",
-    "points": 4400
+    "name": "Larkin",
+    "points": 4575
    },
    {
     "rank": 14,
@@ -2411,28 +2416,28 @@
     "points": 1890
    },
    {
-    "rank": 43,
+    "rank": 41,
+    "name": "Elly Shumaker",
+    "points": 1890
+   },
+   {
+    "rank": 44,
     "name": "paigeb",
     "points": 1880
    },
    {
-    "rank": 44,
+    "rank": 45,
     "name": "Jkrew",
     "points": 1850
    },
    {
-    "rank": 45,
+    "rank": 46,
     "name": "Ava Jorg",
     "points": 1820
    },
    {
-    "rank": 46,
+    "rank": 47,
     "name": "Cindy Jessup",
-    "points": 1790
-   },
-   {
-    "rank": 46,
-    "name": "Elly Shumaker",
     "points": 1790
    },
    {
@@ -2881,23 +2886,23 @@
     "points": 730
    },
    {
-    "rank": 137,
+    "rank": 134,
+    "name": "Trisha Stevens",
+    "points": 730
+   },
+   {
+    "rank": 138,
     "name": "Brianna Knight",
     "points": 720
    },
    {
-    "rank": 137,
+    "rank": 138,
     "name": "Rachell",
     "points": 720
    },
    {
-    "rank": 139,
+    "rank": 140,
     "name": "Bribri",
-    "points": 710
-   },
-   {
-    "rank": 139,
-    "name": "Trisha Stevens",
     "points": 710
    },
    {
