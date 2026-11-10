@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:40:00.053563-07:00",
+ "updated": "2026-11-10T02:20:00.054904-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -2070,41 +2070,46 @@
     },
     {
      "rank": 5,
+     "name": "Alexander Peeni",
+     "points": 300
+    },
+    {
+     "rank": 6,
      "name": "Alivia King",
      "points": 200
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Daryn",
      "points": 200
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "halle",
      "points": 200
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Hannah Greathouse ",
      "points": 200
     },
     {
-     "rank": 9,
+     "rank": 10,
      "name": "Cotton candy",
      "points": 150
     },
     {
-     "rank": 10,
+     "rank": 11,
      "name": "K8theGr8",
      "points": 100
     },
     {
-     "rank": 11,
+     "rank": 12,
      "name": "Mari",
      "points": 50
     },
     {
-     "rank": 11,
+     "rank": 12,
      "name": "Trevor J",
      "points": 50
     }
@@ -2267,33 +2272,33 @@
    },
    {
     "rank": 25,
+    "name": "Alexander Peeni",
+    "points": 2790
+   },
+   {
+    "rank": 26,
     "name": "Boo",
     "points": 2555
    },
    {
-    "rank": 26,
+    "rank": 27,
     "name": "Maddie Morris",
     "points": 2545
    },
    {
-    "rank": 27,
+    "rank": 28,
     "name": "Tem",
     "points": 2540
    },
    {
-    "rank": 28,
+    "rank": 29,
     "name": "Nora Cook",
     "points": 2530
    },
    {
-    "rank": 29,
+    "rank": 30,
     "name": "laureny",
     "points": 2500
-   },
-   {
-    "rank": 30,
-    "name": "Alexander Peeni",
-    "points": 2490
    },
    {
     "rank": 31,
