@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:20:00.054040-07:00",
+ "updated": "2026-11-10T03:40:00.053228-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -2050,71 +2050,76 @@
    "rows": [
     {
      "rank": 1,
-     "name": "Tiago Bettencourt",
-     "points": 1500
+     "name": "Bigmike24213",
+     "points": 2550
     },
     {
      "rank": 2,
      "name": "Jkrew",
-     "points": 1150
+     "points": 1600
     },
     {
      "rank": 3,
+     "name": "Tiago Bettencourt",
+     "points": 1500
+    },
+    {
+     "rank": 4,
      "name": "Alexander Peeni",
      "points": 900
     },
     {
-     "rank": 4,
+     "rank": 5,
      "name": "Ainsley",
      "points": 500
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Emiliano",
      "points": 450
     },
     {
-     "rank": 6,
+     "rank": 7,
      "name": "Claire Daley",
      "points": 400
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "Alivia King",
      "points": 200
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "Daryn",
      "points": 200
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "halle",
      "points": 200
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "Hannah Greathouse ",
      "points": 200
     },
     {
-     "rank": 11,
+     "rank": 12,
      "name": "Cotton candy",
      "points": 150
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "K8theGr8",
      "points": 100
     },
     {
-     "rank": 13,
+     "rank": 14,
      "name": "Mari",
      "points": 50
     },
     {
-     "rank": 13,
+     "rank": 14,
      "name": "Trevor J",
      "points": 50
     }
@@ -2272,863 +2277,863 @@
    },
    {
     "rank": 24,
+    "name": "Bigmike24213",
+    "points": 3040
+   },
+   {
+    "rank": 25,
     "name": "Kate F",
     "points": 2980
    },
    {
-    "rank": 25,
+    "rank": 26,
     "name": "lynspex",
     "points": 2950
    },
    {
-    "rank": 26,
+    "rank": 27,
     "name": "Boo",
     "points": 2555
    },
    {
-    "rank": 27,
+    "rank": 28,
     "name": "Maddie Morris",
     "points": 2545
    },
    {
-    "rank": 28,
+    "rank": 29,
     "name": "Tem",
     "points": 2540
    },
    {
-    "rank": 29,
+    "rank": 30,
     "name": "Nora Cook",
     "points": 2530
    },
    {
-    "rank": 30,
+    "rank": 31,
     "name": "laureny",
     "points": 2500
    },
    {
-    "rank": 31,
+    "rank": 32,
     "name": "Eric Anderson (The Crab)",
     "points": 2465
    },
    {
-    "rank": 32,
+    "rank": 33,
     "name": "Marie",
     "points": 2430
    },
    {
-    "rank": 33,
+    "rank": 34,
     "name": "RJ",
     "points": 2410
    },
    {
-    "rank": 34,
+    "rank": 35,
     "name": "dainy g",
     "points": 2340
    },
    {
-    "rank": 35,
+    "rank": 36,
     "name": "Emily",
     "points": 2035
    },
    {
-    "rank": 36,
+    "rank": 37,
     "name": "katiegail ",
     "points": 2025
    },
    {
-    "rank": 37,
+    "rank": 38,
     "name": "Ainsley",
     "points": 2020
    },
    {
-    "rank": 38,
+    "rank": 39,
     "name": "Kara",
     "points": 1930
    },
    {
-    "rank": 39,
+    "rank": 40,
     "name": "Logan Lundblad",
     "points": 1900
    },
    {
-    "rank": 40,
+    "rank": 41,
     "name": "Brigitte McIntyre",
     "points": 1890
    },
    {
-    "rank": 40,
+    "rank": 41,
     "name": "Daryn",
     "points": 1890
    },
    {
-    "rank": 42,
+    "rank": 43,
     "name": "paigeb",
     "points": 1880
    },
    {
-    "rank": 43,
+    "rank": 44,
     "name": "Ava Jorg",
     "points": 1820
    },
    {
-    "rank": 44,
+    "rank": 45,
     "name": "Cindy Jessup",
     "points": 1790
    },
    {
-    "rank": 44,
+    "rank": 45,
     "name": "Elly Shumaker",
     "points": 1790
    },
    {
-    "rank": 46,
+    "rank": 47,
     "name": "ThaliaS",
     "points": 1780
    },
    {
-    "rank": 47,
+    "rank": 48,
     "name": "Calasley",
     "points": 1730
    },
    {
-    "rank": 48,
+    "rank": 49,
     "name": "Avery Bo Bavery",
     "points": 1680
    },
    {
-    "rank": 49,
+    "rank": 50,
     "name": "Fal",
     "points": 1670
    },
    {
-    "rank": 50,
+    "rank": 51,
     "name": "May",
     "points": 1640
    },
    {
-    "rank": 51,
+    "rank": 52,
     "name": "Aship",
     "points": 1620
    },
    {
-    "rank": 52,
+    "rank": 53,
     "name": "Bethany Choate",
     "points": 1600
    },
    {
     "rank": 53,
+    "name": "Jkrew",
+    "points": 1600
+   },
+   {
+    "rank": 55,
     "name": "Analira Koopman",
     "points": 1580
    },
    {
-    "rank": 53,
+    "rank": 55,
     "name": "SeriousGoose",
     "points": 1580
    },
    {
-    "rank": 55,
+    "rank": 57,
     "name": "Triple A",
     "points": 1570
    },
    {
-    "rank": 56,
+    "rank": 58,
     "name": "Leia R",
     "points": 1560
    },
    {
-    "rank": 57,
+    "rank": 59,
     "name": "Joanne N",
     "points": 1550
    },
    {
-    "rank": 58,
+    "rank": 60,
     "name": "Cornelia ",
     "points": 1510
    },
    {
-    "rank": 59,
+    "rank": 61,
     "name": "Eliza ",
     "points": 1495
    },
    {
-    "rank": 60,
+    "rank": 62,
     "name": "Julia13",
     "points": 1480
    },
    {
-    "rank": 60,
+    "rank": 62,
     "name": "Serina",
     "points": 1480
    },
    {
-    "rank": 62,
+    "rank": 64,
     "name": "Kaden",
     "points": 1450
    },
    {
-    "rank": 63,
+    "rank": 65,
     "name": "Enz.david32",
     "points": 1380
    },
    {
-    "rank": 63,
+    "rank": 65,
     "name": "Kale_Salad",
     "points": 1380
    },
    {
-    "rank": 63,
+    "rank": 65,
     "name": "Makenzie",
     "points": 1380
    },
    {
-    "rank": 66,
+    "rank": 68,
     "name": "Hei Hei",
     "points": 1370
    },
    {
-    "rank": 67,
+    "rank": 69,
     "name": "LSBs",
     "points": 1340
    },
    {
-    "rank": 68,
+    "rank": 70,
     "name": "Laisha ",
     "points": 1310
    },
    {
-    "rank": 69,
+    "rank": 71,
     "name": "Molly",
     "points": 1290
    },
    {
-    "rank": 69,
+    "rank": 71,
     "name": "Rachel",
     "points": 1290
    },
    {
-    "rank": 71,
+    "rank": 73,
     "name": "Christiana ",
     "points": 1270
    },
    {
-    "rank": 72,
+    "rank": 74,
     "name": "JT",
     "points": 1250
    },
    {
-    "rank": 73,
+    "rank": 75,
     "name": "Rimii Kishioka",
     "points": 1240
    },
    {
-    "rank": 74,
+    "rank": 76,
     "name": "Joshua J",
     "points": 1220
    },
    {
-    "rank": 74,
+    "rank": 76,
     "name": "Laners",
     "points": 1220
    },
    {
-    "rank": 76,
+    "rank": 78,
     "name": "Rachel Brown",
     "points": 1200
    },
    {
-    "rank": 77,
+    "rank": 79,
     "name": "Kate Nick",
     "points": 1180
    },
    {
-    "rank": 78,
+    "rank": 80,
     "name": "Cyrena",
     "points": 1170
    },
    {
-    "rank": 79,
+    "rank": 81,
     "name": "Bailey ",
     "points": 1160
    },
    {
-    "rank": 79,
+    "rank": 81,
     "name": "Willy",
     "points": 1160
    },
    {
-    "rank": 79,
+    "rank": 81,
     "name": "~MW~",
     "points": 1160
    },
    {
-    "rank": 82,
-    "name": "Jkrew",
-    "points": 1150
-   },
-   {
-    "rank": 82,
+    "rank": 84,
     "name": "Spencer V",
     "points": 1150
    },
    {
-    "rank": 84,
+    "rank": 85,
     "name": "mwelton",
     "points": 1145
    },
    {
-    "rank": 85,
+    "rank": 86,
     "name": "Christian",
     "points": 1140
    },
    {
-    "rank": 86,
+    "rank": 87,
     "name": "Lily",
     "points": 1130
    },
    {
-    "rank": 87,
+    "rank": 88,
     "name": "Ash",
     "points": 1120
    },
    {
-    "rank": 87,
+    "rank": 88,
     "name": "Bert_Y",
     "points": 1120
    },
    {
-    "rank": 89,
+    "rank": 90,
     "name": "Amanda ",
     "points": 1100
    },
    {
-    "rank": 90,
+    "rank": 91,
     "name": "Brendon Mugleston",
     "points": 1090
    },
    {
-    "rank": 91,
+    "rank": 92,
     "name": "Quartz",
     "points": 1060
    },
    {
-    "rank": 92,
+    "rank": 93,
     "name": "Emiliano",
     "points": 1050
    },
    {
-    "rank": 92,
+    "rank": 93,
     "name": "K8",
     "points": 1050
    },
    {
-    "rank": 94,
+    "rank": 95,
     "name": "Emmmmmma",
     "points": 1040
    },
    {
-    "rank": 95,
+    "rank": 96,
     "name": "Mailie H",
     "points": 1030
    },
    {
-    "rank": 96,
+    "rank": 97,
     "name": "Camille",
     "points": 1000
    },
    {
-    "rank": 97,
+    "rank": 98,
     "name": "Abigail ",
     "points": 980
    },
    {
-    "rank": 98,
+    "rank": 99,
     "name": "Alyssa Johnson",
     "points": 950
    },
    {
-    "rank": 98,
+    "rank": 99,
     "name": "sadieA",
     "points": 950
    },
    {
-    "rank": 100,
+    "rank": 101,
     "name": "Tyler",
     "points": 940
    },
    {
-    "rank": 101,
+    "rank": 102,
     "name": "Bex",
     "points": 930
    },
    {
-    "rank": 101,
+    "rank": 102,
     "name": "Gmetler",
     "points": 930
    },
    {
-    "rank": 103,
+    "rank": 104,
     "name": "Brynn ",
     "points": 910
    },
    {
-    "rank": 103,
+    "rank": 104,
     "name": "holly",
     "points": 910
    },
    {
-    "rank": 105,
+    "rank": 106,
     "name": "Eva-the-bookwyrm",
     "points": 900
    },
    {
-    "rank": 105,
+    "rank": 106,
     "name": "Hollywood ",
     "points": 900
    },
    {
-    "rank": 105,
+    "rank": 106,
     "name": "Ryan H",
     "points": 900
    },
    {
-    "rank": 108,
+    "rank": 109,
     "name": "Andy",
     "points": 890
    },
    {
-    "rank": 109,
+    "rank": 110,
     "name": "Claire Daley",
     "points": 875
    },
    {
-    "rank": 110,
+    "rank": 111,
     "name": "Hailey",
     "points": 870
    },
    {
-    "rank": 110,
+    "rank": 111,
     "name": "Syrena",
     "points": 870
    },
    {
-    "rank": 112,
+    "rank": 113,
     "name": "Cam ",
     "points": 860
    },
    {
-    "rank": 112,
+    "rank": 113,
     "name": "Hazel H",
     "points": 860
    },
    {
-    "rank": 112,
+    "rank": 113,
     "name": "Noelle weight",
     "points": 860
    },
    {
-    "rank": 115,
+    "rank": 116,
     "name": "Brooke",
     "points": 850
    },
    {
-    "rank": 116,
+    "rank": 117,
     "name": "Swede",
     "points": 840
    },
    {
-    "rank": 117,
+    "rank": 118,
     "name": "Amy F",
     "points": 830
    },
    {
-    "rank": 118,
+    "rank": 119,
     "name": "Amber Abbott",
     "points": 820
    },
    {
-    "rank": 118,
+    "rank": 119,
     "name": "Lyndi B",
     "points": 820
    },
    {
-    "rank": 118,
+    "rank": 119,
     "name": "McKay ",
     "points": 820
    },
    {
-    "rank": 121,
+    "rank": 122,
     "name": "Emilie",
     "points": 815
    },
    {
-    "rank": 122,
+    "rank": 123,
     "name": "Ane Malohi",
     "points": 810
    },
    {
-    "rank": 123,
+    "rank": 124,
     "name": "Landon",
     "points": 800
    },
    {
-    "rank": 124,
+    "rank": 125,
     "name": "Bella :)",
     "points": 790
    },
    {
-    "rank": 125,
+    "rank": 126,
     "name": "Fallon (Like Jimmy Fallon)",
     "points": 780
    },
    {
-    "rank": 125,
+    "rank": 126,
     "name": "Rylee Patterson",
     "points": 780
    },
    {
-    "rank": 125,
+    "rank": 126,
     "name": "Sarbear ",
     "points": 780
    },
    {
-    "rank": 125,
+    "rank": 126,
     "name": "SavServes",
     "points": 780
    },
    {
-    "rank": 129,
+    "rank": 130,
     "name": "Amelia Tanner",
     "points": 770
    },
    {
-    "rank": 130,
+    "rank": 131,
     "name": "Karly A",
     "points": 760
    },
    {
-    "rank": 131,
+    "rank": 132,
     "name": "Kimball Thornock",
     "points": 750
    },
    {
-    "rank": 132,
+    "rank": 133,
     "name": "Carter Moir ",
     "points": 740
    },
    {
-    "rank": 133,
+    "rank": 134,
     "name": "Alisa Seegmiller",
     "points": 730
    },
    {
-    "rank": 133,
+    "rank": 134,
     "name": "EmmaLee :)",
     "points": 730
    },
    {
-    "rank": 133,
+    "rank": 134,
     "name": "Lloyd",
     "points": 730
    },
    {
-    "rank": 136,
+    "rank": 137,
     "name": "Brianna Knight",
     "points": 720
    },
    {
-    "rank": 136,
+    "rank": 137,
     "name": "Rachell",
     "points": 720
    },
    {
-    "rank": 138,
+    "rank": 139,
     "name": "Bribri",
     "points": 710
    },
    {
-    "rank": 139,
+    "rank": 140,
     "name": "Alli D",
     "points": 700
    },
    {
-    "rank": 139,
+    "rank": 140,
     "name": "kalynn",
     "points": 700
    },
    {
-    "rank": 139,
+    "rank": 140,
     "name": "Monik",
     "points": 700
    },
    {
-    "rank": 139,
+    "rank": 140,
     "name": "The meg",
     "points": 700
    },
    {
-    "rank": 143,
+    "rank": 144,
     "name": "Cassi Atwood :)",
     "points": 690
    },
    {
-    "rank": 144,
+    "rank": 145,
     "name": "Julianna",
     "points": 670
    },
    {
-    "rank": 145,
+    "rank": 146,
     "name": "Emerson Carroll",
     "points": 660
    },
    {
-    "rank": 146,
+    "rank": 147,
     "name": "clark",
     "points": 650
    },
    {
-    "rank": 146,
+    "rank": 147,
     "name": "huaffles",
     "points": 650
    },
    {
-    "rank": 146,
+    "rank": 147,
     "name": "Jorgen Robinson",
     "points": 650
    },
    {
-    "rank": 146,
+    "rank": 147,
     "name": "Kayla",
     "points": 650
    },
    {
-    "rank": 146,
+    "rank": 147,
     "name": "Maddim",
     "points": 650
    },
    {
-    "rank": 151,
+    "rank": 152,
     "name": "Ellie Moser",
     "points": 640
    },
    {
-    "rank": 152,
+    "rank": 153,
     "name": "Daniel F. Brown ",
     "points": 620
    },
    {
-    "rank": 152,
+    "rank": 153,
     "name": "Johnny Rocket",
     "points": 620
    },
    {
-    "rank": 152,
+    "rank": 153,
     "name": "Madison L.",
     "points": 620
    },
    {
-    "rank": 155,
+    "rank": 156,
     "name": "Brian Skoubye",
     "points": 610
    },
    {
-    "rank": 156,
+    "rank": 157,
     "name": "Camryn ._.",
     "points": 600
    },
    {
-    "rank": 156,
+    "rank": 157,
     "name": "Magical Sharing ",
     "points": 600
    },
    {
-    "rank": 158,
+    "rank": 159,
     "name": "Kali",
     "points": 580
    },
    {
-    "rank": 158,
+    "rank": 159,
     "name": "leesay:)",
     "points": 580
    },
    {
-    "rank": 160,
+    "rank": 161,
     "name": "Alyssa F",
     "points": 570
    },
    {
-    "rank": 160,
+    "rank": 161,
     "name": "Hailey M",
     "points": 570
    },
    {
-    "rank": 160,
+    "rank": 161,
     "name": "Moses",
     "points": 570
    },
    {
-    "rank": 160,
+    "rank": 161,
     "name": "Sadie",
     "points": 570
    },
    {
-    "rank": 164,
+    "rank": 165,
     "name": "Aubrey",
     "points": 560
    },
    {
-    "rank": 164,
+    "rank": 165,
     "name": "William Chung-Hoon",
     "points": 560
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Corbin 🫡🫡",
     "points": 550
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Haoyi YU",
     "points": 550
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Ky B",
     "points": 550
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "maddie m",
     "points": 550
    },
    {
-    "rank": 170,
+    "rank": 171,
     "name": "Audrey Crawford",
     "points": 540
    },
    {
-    "rank": 170,
+    "rank": 171,
     "name": "Grace Rowell",
     "points": 540
    },
    {
-    "rank": 170,
+    "rank": 171,
     "name": "Lizzie",
     "points": 540
    },
    {
-    "rank": 170,
+    "rank": 171,
     "name": "ME",
     "points": 540
    },
    {
-    "rank": 174,
+    "rank": 175,
     "name": "Amy Clarke",
     "points": 530
    },
    {
-    "rank": 174,
+    "rank": 175,
     "name": "Catalina75",
     "points": 530
    },
    {
-    "rank": 174,
+    "rank": 175,
     "name": "Dave",
     "points": 530
    },
    {
-    "rank": 174,
+    "rank": 175,
     "name": "Spencer Shores",
     "points": 530
    },
    {
-    "rank": 174,
+    "rank": 175,
     "name": "Zach Halliday",
     "points": 530
    },
    {
-    "rank": 179,
+    "rank": 180,
     "name": "Elyse Darrington",
     "points": 520
    },
    {
-    "rank": 179,
+    "rank": 180,
     "name": "Hailey!",
     "points": 520
    },
    {
-    "rank": 179,
+    "rank": 180,
     "name": "Kita ",
     "points": 520
    },
    {
-    "rank": 179,
+    "rank": 180,
     "name": "Nomin Bolor",
     "points": 520
    },
    {
-    "rank": 179,
+    "rank": 180,
     "name": "Rose7",
     "points": 520
    },
    {
-    "rank": 184,
+    "rank": 185,
     "name": "Db11",
     "points": 510
    },
    {
-    "rank": 184,
+    "rank": 185,
     "name": "John Miller",
     "points": 510
    },
    {
-    "rank": 184,
+    "rank": 185,
     "name": "nani m :)",
     "points": 510
    },
    {
-    "rank": 184,
+    "rank": 185,
     "name": "SethMo ",
     "points": 510
    },
    {
-    "rank": 184,
+    "rank": 185,
     "name": "wmhenry",
     "points": 510
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Addy",
     "points": 500
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Aurelia",
     "points": 500
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Jenna",
     "points": 500
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Lance22",
     "points": 500
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Meegan",
     "points": 500
    },
    {
-    "rank": 189,
+    "rank": 190,
     "name": "Song Tao",
     "points": 500
-   },
-   {
-    "rank": 195,
-    "name": "Bigmike24213",
-    "points": 490
    },
    {
     "rank": 196,
