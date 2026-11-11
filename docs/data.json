@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:40:00.144522-07:00",
+ "updated": "2026-11-11T02:00:00.056681-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -3869,21 +3869,26 @@
     },
     {
      "rank": 3,
+     "name": "Claire Daley",
+     "points": 400
+    },
+    {
+     "rank": 3,
      "name": "esme",
      "points": 400
     },
     {
-     "rank": 4,
+     "rank": 5,
+     "name": "Catalina75",
+     "points": 350
+    },
+    {
+     "rank": 6,
      "name": "C",
      "points": 250
     },
     {
-     "rank": 5,
-     "name": "Claire Daley",
-     "points": 200
-    },
-    {
-     "rank": 6,
+     "rank": 7,
      "name": "Tiago Bettencourt",
      "points": 100
     }
@@ -4108,18 +4113,18 @@
    },
    {
     "rank": 39,
+    "name": "Claire Daley",
+    "points": 3935
+   },
+   {
+    "rank": 40,
     "name": "Alexander Peeni",
     "points": 3790
    },
    {
-    "rank": 39,
+    "rank": 40,
     "name": "Daryn",
     "points": 3790
-   },
-   {
-    "rank": 41,
-    "name": "Claire Daley",
-    "points": 3735
    },
    {
     "rank": 42,
@@ -4183,43 +4188,43 @@
    },
    {
     "rank": 54,
+    "name": "Catalina75",
+    "points": 2830
+   },
+   {
+    "rank": 55,
     "name": "ThaliaS",
     "points": 2730
    },
    {
-    "rank": 54,
+    "rank": 55,
     "name": "Triple A",
     "points": 2730
    },
    {
-    "rank": 56,
+    "rank": 57,
     "name": "Marie",
     "points": 2680
    },
    {
-    "rank": 57,
+    "rank": 58,
     "name": "Boo",
     "points": 2605
    },
    {
-    "rank": 58,
+    "rank": 59,
     "name": "Joshua J",
     "points": 2570
    },
    {
-    "rank": 59,
+    "rank": 60,
     "name": "Elly Shumaker",
     "points": 2540
    },
    {
-    "rank": 60,
+    "rank": 61,
     "name": "Paige B)",
     "points": 2490
-   },
-   {
-    "rank": 61,
-    "name": "Catalina75",
-    "points": 2480
    },
    {
     "rank": 62,
