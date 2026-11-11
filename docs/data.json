@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:40:00.054303-07:00",
+ "updated": "2026-11-11T00:00:00.054419-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -3852,7 +3852,7 @@
   },
   {
    "name": "Wednesday",
-   "status": "upcoming",
+   "status": "open",
    "opens": "2026-11-11T00:00:00-07:00",
    "closes": "2026-11-11T17:00:00-07:00",
    "frozen": false,
@@ -4987,6 +4987,11 @@
    },
    {
     "rank": 219,
+    "name": "Blyss ✨",
+    "points": 700
+   },
+   {
+    "rank": 219,
     "name": "Brynnlee B",
     "points": 700
    },
@@ -5031,132 +5036,127 @@
     "points": 700
    },
    {
-    "rank": 230,
+    "rank": 231,
     "name": "Cry",
     "points": 690
    },
    {
-    "rank": 230,
+    "rank": 231,
     "name": "Sophee Gonzales",
     "points": 690
    },
    {
-    "rank": 230,
+    "rank": 231,
     "name": "Victoria ",
     "points": 690
    },
    {
-    "rank": 233,
+    "rank": 234,
     "name": "Daniel F. Brown ",
     "points": 680
    },
    {
-    "rank": 234,
+    "rank": 235,
     "name": "AndrewB",
     "points": 670
    },
    {
-    "rank": 234,
+    "rank": 235,
     "name": "Bekahn",
     "points": 670
    },
    {
-    "rank": 234,
+    "rank": 235,
     "name": "Bria Hammer",
     "points": 670
    },
    {
-    "rank": 234,
+    "rank": 235,
     "name": "Jared M",
     "points": 670
    },
    {
-    "rank": 238,
+    "rank": 239,
     "name": "Emerson Carroll",
     "points": 660
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "clark",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "huaffles",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Jorgen Robinson",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Kaison",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Kayla",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Lys",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Macy Lym",
     "points": 650
    },
    {
-    "rank": 239,
+    "rank": 240,
     "name": "Mae117",
     "points": 650
    },
    {
-    "rank": 247,
+    "rank": 248,
     "name": "Ellie Moser",
     "points": 640
    },
    {
-    "rank": 248,
+    "rank": 249,
     "name": "Averyjones",
     "points": 630
    },
    {
-    "rank": 249,
+    "rank": 250,
     "name": "Brian Skoubye",
     "points": 610
    },
    {
-    "rank": 249,
+    "rank": 250,
     "name": "Sadie 1",
     "points": 610
    },
    {
-    "rank": 251,
+    "rank": 252,
     "name": "Bitsybop",
     "points": 600
    },
    {
-    "rank": 251,
-    "name": "Blyss ✨",
-    "points": 600
-   },
-   {
-    "rank": 251,
+    "rank": 252,
     "name": "Jwangs",
     "points": 600
    },
    {
-    "rank": 251,
+    "rank": 252,
     "name": "Lucy N",
     "points": 600
    },
    {
-    "rank": 251,
+    "rank": 252,
     "name": "Maci",
     "points": 600
    },
@@ -7116,6 +7116,6 @@
     "points": 10
    }
   ],
-  "outside_points": 95741
+  "outside_points": 95841
  }
 }
