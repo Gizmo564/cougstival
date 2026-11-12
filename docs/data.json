@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:00:00.053331-07:00",
+ "updated": "2026-11-12T01:40:00.054156-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -5314,7 +5314,7 @@
     {
      "rank": 1,
      "name": "Nomuna",
-     "points": 1800
+     "points": 3500
     },
     {
      "rank": 2,
@@ -5544,88 +5544,88 @@
    },
    {
     "rank": 34,
+    "name": "Nomuna",
+    "points": 5480
+   },
+   {
+    "rank": 35,
     "name": "Ben M",
     "points": 5370
    },
    {
-    "rank": 35,
+    "rank": 36,
     "name": "Trevor J",
     "points": 5340
    },
    {
-    "rank": 36,
+    "rank": 37,
     "name": "Eva-the-bookwyrm",
     "points": 5170
    },
    {
-    "rank": 37,
+    "rank": 38,
     "name": "Mimi Alomía ",
     "points": 5140
    },
    {
-    "rank": 38,
+    "rank": 39,
     "name": "Daryn",
     "points": 4940
    },
    {
-    "rank": 39,
+    "rank": 40,
     "name": "Ava Jorg",
     "points": 4900
    },
    {
-    "rank": 40,
+    "rank": 41,
     "name": "Ella S.",
     "points": 4780
    },
    {
-    "rank": 41,
+    "rank": 42,
     "name": "Emiliano",
     "points": 4740
    },
    {
-    "rank": 42,
+    "rank": 43,
     "name": "RJ",
     "points": 4720
    },
    {
-    "rank": 43,
+    "rank": 44,
     "name": "Bella :)",
     "points": 4515
    },
    {
-    "rank": 44,
+    "rank": 45,
     "name": "dainy g",
     "points": 4450
    },
    {
-    "rank": 45,
+    "rank": 46,
     "name": "Alexander Peeni",
     "points": 4440
    },
    {
-    "rank": 46,
+    "rank": 47,
     "name": "Leia R",
     "points": 4310
    },
    {
-    "rank": 47,
+    "rank": 48,
     "name": "Lily",
     "points": 4290
    },
    {
-    "rank": 48,
+    "rank": 49,
     "name": "Michelle B",
     "points": 4170
    },
    {
-    "rank": 49,
+    "rank": 50,
     "name": "ThaliaS",
     "points": 3980
-   },
-   {
-    "rank": 50,
-    "name": "Nomuna",
-    "points": 3780
    },
    {
     "rank": 51,
