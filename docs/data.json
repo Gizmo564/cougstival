@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:00:00.052493-07:00",
+ "updated": "2026-11-11T22:40:00.055028-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -5418,13 +5418,13 @@
    },
    {
     "rank": 18,
-    "name": "Fer",
-    "points": 8230
+    "name": "Calasley",
+    "points": 8590
    },
    {
     "rank": 19,
-    "name": "Calasley",
-    "points": 8090
+    "name": "Fer",
+    "points": 8230
    },
    {
     "rank": 20,
@@ -6583,6 +6583,11 @@
    },
    {
     "rank": 247,
+    "name": "Kaison",
+    "points": 750
+   },
+   {
+    "rank": 247,
     "name": "Kalisi",
     "points": 750
    },
@@ -6607,177 +6612,172 @@
     "points": 750
    },
    {
-    "rank": 256,
+    "rank": 257,
     "name": "Audrey Crawford",
     "points": 740
    },
    {
-    "rank": 256,
+    "rank": 257,
     "name": "Lloyd",
     "points": 740
    },
    {
-    "rank": 258,
+    "rank": 259,
     "name": "EmmaLee :)",
     "points": 730
    },
    {
-    "rank": 258,
+    "rank": 259,
     "name": "Trisha Stevens",
     "points": 730
    },
    {
-    "rank": 260,
+    "rank": 261,
     "name": "Brianna Knight",
     "points": 720
    },
    {
-    "rank": 260,
+    "rank": 261,
     "name": "Lexi",
     "points": 720
    },
    {
-    "rank": 260,
+    "rank": 261,
     "name": "Lyndi B",
     "points": 720
    },
    {
-    "rank": 263,
+    "rank": 264,
     "name": "Db11",
     "points": 710
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Aaron Mooreland ",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Alli D",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Blyss ✨",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Brynnlee B",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Drizzy_Drake",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Grey squirrel",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Joseph H",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "kalynn",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Khardy",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Riv",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "Song Tao",
     "points": 700
    },
    {
-    "rank": 264,
+    "rank": 265,
     "name": "The meg",
     "points": 700
    },
    {
-    "rank": 276,
+    "rank": 277,
     "name": "Cry",
     "points": 690
    },
    {
-    "rank": 276,
+    "rank": 277,
     "name": "Sophee Gonzales",
     "points": 690
    },
    {
-    "rank": 278,
+    "rank": 279,
     "name": "Daniel F. Brown ",
     "points": 680
    },
    {
-    "rank": 279,
+    "rank": 280,
     "name": "AndrewB",
     "points": 670
    },
    {
-    "rank": 279,
+    "rank": 280,
     "name": "Bekahn",
     "points": 670
    },
    {
-    "rank": 279,
+    "rank": 280,
     "name": "Hailey Ericksen",
     "points": 670
    },
    {
-    "rank": 279,
+    "rank": 280,
     "name": "Jared M",
     "points": 670
    },
    {
-    "rank": 283,
+    "rank": 284,
     "name": "Emerson Carroll",
     "points": 660
    },
    {
-    "rank": 284,
+    "rank": 285,
     "name": "arielle",
     "points": 650
    },
    {
-    "rank": 284,
+    "rank": 285,
     "name": "clark",
     "points": 650
    },
    {
-    "rank": 284,
+    "rank": 285,
     "name": "Jorgen Robinson",
     "points": 650
    },
    {
-    "rank": 284,
-    "name": "Kaison",
-    "points": 650
-   },
-   {
-    "rank": 284,
+    "rank": 285,
     "name": "Kayla",
     "points": 650
    },
    {
-    "rank": 284,
+    "rank": 285,
     "name": "Lys",
     "points": 650
    },
    {
-    "rank": 284,
+    "rank": 285,
     "name": "Mae117",
     "points": 650
    },
@@ -9262,6 +9262,6 @@
     "points": 10
    }
   ],
-  "outside_points": 125202
+  "outside_points": 125802
  }
 }
