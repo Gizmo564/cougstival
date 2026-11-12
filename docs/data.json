@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T02:00:00.055238-07:00",
+ "updated": "2026-11-12T03:00:00.053134-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -5314,7 +5314,7 @@
     {
      "rank": 1,
      "name": "Nomuna",
-     "points": 3600
+     "points": 5700
     },
     {
      "rank": 2,
@@ -5489,58 +5489,58 @@
    },
    {
     "rank": 23,
+    "name": "Nomuna",
+    "points": 7680
+   },
+   {
+    "rank": 24,
     "name": "Livy Lou ",
     "points": 6580
    },
    {
-    "rank": 24,
+    "rank": 25,
     "name": "jen",
     "points": 6530
    },
    {
-    "rank": 25,
+    "rank": 26,
     "name": "Larkin",
     "points": 6475
    },
    {
-    "rank": 26,
+    "rank": 27,
     "name": "Sage",
     "points": 6405
    },
    {
-    "rank": 27,
+    "rank": 28,
     "name": "Cindy Jessup",
     "points": 6315
    },
    {
-    "rank": 28,
+    "rank": 29,
     "name": "lynspex",
     "points": 6200
    },
    {
-    "rank": 29,
+    "rank": 30,
     "name": "Joanne N",
     "points": 6180
    },
    {
-    "rank": 30,
+    "rank": 31,
     "name": "Maddie Morris",
     "points": 6155
    },
    {
-    "rank": 31,
+    "rank": 32,
     "name": "Andrew ",
     "points": 6075
    },
    {
-    "rank": 32,
+    "rank": 33,
     "name": "Claire",
     "points": 5950
-   },
-   {
-    "rank": 33,
-    "name": "Nomuna",
-    "points": 5580
    },
    {
     "rank": 34,
