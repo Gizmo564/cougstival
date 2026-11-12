@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:40:00.055657-07:00",
+ "updated": "2026-11-12T01:00:00.053331-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -5314,7 +5314,7 @@
     {
      "rank": 1,
      "name": "Nomuna",
-     "points": 1650
+     "points": 1800
     },
     {
      "rank": 2,
@@ -5350,6 +5350,11 @@
      "rank": 7,
      "name": "~MW~",
      "points": 150
+    },
+    {
+     "rank": 9,
+     "name": "Eric Anderson (The Crab)",
+     "points": 1
     }
    ]
   },
@@ -5405,7 +5410,7 @@
    {
     "rank": 7,
     "name": "Eric Anderson (The Crab)",
-    "points": 14775
+    "points": 14776
    },
    {
     "rank": 8,
@@ -5619,18 +5624,18 @@
    },
    {
     "rank": 50,
+    "name": "Nomuna",
+    "points": 3780
+   },
+   {
+    "rank": 51,
     "name": "Catalina75",
     "points": 3740
    },
    {
-    "rank": 51,
+    "rank": 52,
     "name": "Enz.david32",
     "points": 3640
-   },
-   {
-    "rank": 52,
-    "name": "Nomuna",
-    "points": 3630
    },
    {
     "rank": 53,
