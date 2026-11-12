@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:00:00.051976-07:00",
+ "updated": "2026-11-11T21:40:00.053842-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -5343,13 +5343,13 @@
    },
    {
     "rank": 3,
-    "name": "Bigmike24213",
-    "points": 17406
+    "name": "nat.mejia17",
+    "points": 17450
    },
    {
     "rank": 4,
-    "name": "nat.mejia17",
-    "points": 17200
+    "name": "Bigmike24213",
+    "points": 17406
    },
    {
     "rank": 5,
@@ -5379,7 +5379,7 @@
    {
     "rank": 10,
     "name": "Aiden Petersen ",
-    "points": 11815
+    "points": 11965
    },
    {
     "rank": 11,
@@ -5389,7 +5389,7 @@
    {
     "rank": 12,
     "name": "laureny",
-    "points": 10825
+    "points": 10975
    },
    {
     "rank": 13,
@@ -5419,7 +5419,7 @@
    {
     "rank": 18,
     "name": "Fer",
-    "points": 8130
+    "points": 8230
    },
    {
     "rank": 19,
@@ -5508,13 +5508,13 @@
    },
    {
     "rank": 36,
-    "name": "Mimi Alomía ",
-    "points": 5140
+    "name": "Eva-the-bookwyrm",
+    "points": 5170
    },
    {
     "rank": 37,
-    "name": "Eva-the-bookwyrm",
-    "points": 5120
+    "name": "Mimi Alomía ",
+    "points": 5140
    },
    {
     "rank": 38,
@@ -5703,31 +5703,31 @@
    },
    {
     "rank": 75,
+    "name": "Bonjo",
+    "points": 2480
+   },
+   {
+    "rank": 75,
     "name": "paigeb",
     "points": 2480
    },
    {
-    "rank": 76,
+    "rank": 77,
     "name": "Ryan Wilkins",
     "points": 2460
    },
    {
-    "rank": 77,
+    "rank": 78,
     "name": "Danger ",
     "points": 2360
    },
    {
-    "rank": 77,
+    "rank": 78,
     "name": "Hazel H",
     "points": 2360
    },
    {
-    "rank": 79,
-    "name": "Bonjo",
-    "points": 2330
-   },
-   {
-    "rank": 79,
+    "rank": 80,
     "name": "Grace Rowell",
     "points": 2330
    },
@@ -5763,53 +5763,53 @@
    },
    {
     "rank": 87,
+    "name": "Georgia Bay",
+    "points": 2150
+   },
+   {
+    "rank": 88,
     "name": "Rachell",
     "points": 2140
    },
    {
-    "rank": 88,
+    "rank": 89,
     "name": "Alisa Seegmiller",
     "points": 2130
    },
    {
-    "rank": 89,
+    "rank": 90,
     "name": "Taylin G",
     "points": 2120
    },
    {
-    "rank": 90,
+    "rank": 91,
     "name": "Bethany Choate",
     "points": 2100
    },
    {
-    "rank": 91,
+    "rank": 92,
     "name": "Anna Banana",
     "points": 2080
    },
    {
-    "rank": 92,
+    "rank": 93,
     "name": "Emily",
     "points": 2035
    },
    {
-    "rank": 93,
+    "rank": 94,
     "name": "Kara",
     "points": 2030
    },
    {
-    "rank": 94,
+    "rank": 95,
     "name": "Emilie",
     "points": 2015
    },
    {
-    "rank": 94,
+    "rank": 95,
     "name": "Nomin Bolor",
     "points": 2015
-   },
-   {
-    "rank": 96,
-    "name": "Georgia Bay",
-    "points": 2000
    },
    {
     "rank": 97,
@@ -5923,28 +5923,28 @@
    },
    {
     "rank": 119,
+    "name": "Alisa B",
+    "points": 1600
+   },
+   {
+    "rank": 120,
     "name": "Molly",
     "points": 1590
    },
    {
-    "rank": 120,
+    "rank": 121,
     "name": "Julia13",
     "points": 1580
    },
    {
-    "rank": 121,
+    "rank": 122,
     "name": "Kita ",
     "points": 1570
    },
    {
-    "rank": 122,
+    "rank": 123,
     "name": "Laisha ",
     "points": 1560
-   },
-   {
-    "rank": 123,
-    "name": "Alisa B",
-    "points": 1550
    },
    {
     "rank": 124,
@@ -9257,6 +9257,6 @@
     "points": 10
    }
   ],
-  "outside_points": 123132
+  "outside_points": 124182
  }
 }
