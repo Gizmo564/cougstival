@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:00:00.051468-07:00",
+ "updated": "2026-11-13T06:40:00.055075-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -6387,16 +6387,46 @@
    "rows": [
     {
      "rank": 1,
+     "name": "Bonjo",
+     "points": 570
+    },
+    {
+     "rank": 2,
+     "name": "Kate F",
+     "points": 450
+    },
+    {
+     "rank": 2,
+     "name": "Maddie Morris",
+     "points": 450
+    },
+    {
+     "rank": 4,
      "name": "Eugene Poh",
      "points": 403
     },
     {
-     "rank": 2,
+     "rank": 5,
+     "name": "Mimi Alomía ",
+     "points": 300
+    },
+    {
+     "rank": 5,
+     "name": "nat.mejia17",
+     "points": 300
+    },
+    {
+     "rank": 7,
      "name": "Calasley",
      "points": 250
     },
     {
-     "rank": 3,
+     "rank": 8,
+     "name": "Bigmike24213",
+     "points": 200
+    },
+    {
+     "rank": 9,
      "name": "ZoieA",
      "points": 1
     }
@@ -6421,7 +6451,7 @@
    {
     "rank": 2,
     "name": "nat.mejia17",
-    "points": 20200
+    "points": 20500
    },
    {
     "rank": 3,
@@ -6436,7 +6466,7 @@
    {
     "rank": 5,
     "name": "Bigmike24213",
-    "points": 19421
+    "points": 19621
    },
    {
     "rank": 6,
@@ -6556,7 +6586,7 @@
    {
     "rank": 29,
     "name": "Maddie Morris",
-    "points": 7155
+    "points": 7605
    },
    {
     "rank": 30,
@@ -6575,58 +6605,58 @@
    },
    {
     "rank": 33,
+    "name": "Kate F",
+    "points": 6645
+   },
+   {
+    "rank": 34,
     "name": "lynspex",
     "points": 6615
    },
    {
-    "rank": 34,
+    "rank": 35,
     "name": "Lily",
     "points": 6590
    },
    {
-    "rank": 35,
+    "rank": 36,
     "name": "Livy Lou ",
     "points": 6580
    },
    {
-    "rank": 36,
+    "rank": 37,
     "name": "jen",
     "points": 6530
    },
    {
-    "rank": 37,
+    "rank": 38,
     "name": "Trevor J",
     "points": 6355
    },
    {
-    "rank": 38,
+    "rank": 39,
+    "name": "Mimi Alomía ",
+    "points": 6340
+   },
+   {
+    "rank": 40,
     "name": "Cindy Jessup",
     "points": 6315
    },
    {
-    "rank": 39,
+    "rank": 41,
     "name": "kem",
     "points": 6280
    },
    {
-    "rank": 40,
-    "name": "Kate F",
-    "points": 6195
-   },
-   {
-    "rank": 41,
+    "rank": 42,
     "name": "Emiliano",
     "points": 6140
    },
    {
-    "rank": 42,
+    "rank": 43,
     "name": "Andrew ",
     "points": 6075
-   },
-   {
-    "rank": 43,
-    "name": "Mimi Alomía ",
-    "points": 6040
    },
    {
     "rank": 44,
@@ -6770,76 +6800,76 @@
    },
    {
     "rank": 72,
+    "name": "Bonjo",
+    "points": 3450
+   },
+   {
+    "rank": 73,
     "name": "Elly Shumaker",
     "points": 3290
    },
    {
-    "rank": 73,
+    "rank": 74,
     "name": "Tippy",
     "points": 3275
    },
    {
-    "rank": 74,
+    "rank": 75,
     "name": "Joshua J",
     "points": 3255
    },
    {
-    "rank": 75,
+    "rank": 76,
     "name": "Addy",
     "points": 3170
    },
    {
-    "rank": 76,
+    "rank": 77,
     "name": "Analira Koopman",
     "points": 3165
    },
    {
-    "rank": 77,
+    "rank": 78,
     "name": "Amy F",
     "points": 3130
    },
    {
-    "rank": 78,
+    "rank": 79,
     "name": "paigeb",
     "points": 3045
    },
    {
-    "rank": 79,
+    "rank": 80,
     "name": "Abigail ",
     "points": 3040
    },
    {
-    "rank": 79,
+    "rank": 80,
     "name": "Moses",
     "points": 3040
    },
    {
-    "rank": 81,
+    "rank": 82,
     "name": "Alyssa F",
     "points": 3020
    },
    {
-    "rank": 82,
+    "rank": 83,
     "name": "William Chung-Hoon",
     "points": 3005
    },
    {
-    "rank": 83,
+    "rank": 84,
     "name": "Rhees’s Pieces",
     "points": 3000
    },
    {
-    "rank": 84,
+    "rank": 85,
     "name": "Georgia Bay",
     "points": 2920
    },
    {
-    "rank": 85,
-    "name": "Bonjo",
-    "points": 2880
-   },
-   {
-    "rank": 85,
+    "rank": 86,
     "name": "Kiera Babcock",
     "points": 2880
    },
