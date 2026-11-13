@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T19:40:00.056238-07:00",
+ "updated": "2026-11-12T20:00:00.054843-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -6535,7 +6535,7 @@
    {
     "rank": 28,
     "name": "Eva-the-bookwyrm",
-    "points": 7570
+    "points": 7670
    },
    {
     "rank": 29,
@@ -6649,13 +6649,13 @@
    },
    {
     "rank": 51,
-    "name": "Ella S.",
-    "points": 4780
+    "name": "Eliza ",
+    "points": 4965
    },
    {
     "rank": 52,
-    "name": "Eliza ",
-    "points": 4765
+    "name": "Ella S.",
+    "points": 4780
    },
    {
     "rank": 53,
@@ -6989,68 +6989,68 @@
    },
    {
     "rank": 119,
+    "name": "Alyssa Johnson",
+    "points": 2000
+   },
+   {
+    "rank": 119,
     "name": "ZoieA",
     "points": 2000
    },
    {
-    "rank": 120,
+    "rank": 121,
     "name": "mwelton",
     "points": 1995
    },
    {
-    "rank": 121,
+    "rank": 122,
     "name": "Sarbear ",
     "points": 1980
    },
    {
-    "rank": 122,
+    "rank": 123,
     "name": "Emily Thrower",
     "points": 1950
    },
    {
-    "rank": 123,
+    "rank": 124,
     "name": "Ky B",
     "points": 1940
    },
    {
-    "rank": 124,
+    "rank": 125,
     "name": "MnM",
     "points": 1920
    },
    {
-    "rank": 125,
+    "rank": 126,
     "name": "Logan Lundblad",
     "points": 1900
    },
    {
-    "rank": 126,
+    "rank": 127,
     "name": "Fallon (Like Jimmy Fallon)",
     "points": 1880
    },
    {
-    "rank": 126,
+    "rank": 127,
     "name": "Kate Nick",
     "points": 1880
    },
    {
-    "rank": 128,
+    "rank": 129,
     "name": "JustJulia",
     "points": 1840
    },
    {
-    "rank": 129,
+    "rank": 130,
     "name": "Annette Rice",
     "points": 1820
    },
    {
-    "rank": 129,
+    "rank": 130,
     "name": "Bert_Y",
     "points": 1820
-   },
-   {
-    "rank": 131,
-    "name": "Alyssa Johnson",
-    "points": 1800
    },
    {
     "rank": 132,
@@ -10663,6 +10663,6 @@
     "points": 10
    }
   ],
-  "outside_points": 141487
+  "outside_points": 141987
  }
 }
