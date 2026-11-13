@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:40:00.055075-07:00",
+ "updated": "2026-11-13T07:00:00.054481-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -6388,7 +6388,7 @@
     {
      "rank": 1,
      "name": "Bonjo",
-     "points": 570
+     "points": 1040
     },
     {
      "rank": 2,
@@ -6426,7 +6426,12 @@
      "points": 200
     },
     {
-     "rank": 9,
+     "rank": 8,
+     "name": "Ryan Wilkins",
+     "points": 200
+    },
+    {
+     "rank": 10,
      "name": "ZoieA",
      "points": 1
     }
@@ -6760,48 +6765,48 @@
    },
    {
     "rank": 64,
+    "name": "Bonjo",
+    "points": 3920
+   },
+   {
+    "rank": 65,
     "name": "ParkerJones",
     "points": 3910
    },
    {
-    "rank": 65,
+    "rank": 66,
     "name": "Ainsley",
     "points": 3880
    },
    {
-    "rank": 66,
+    "rank": 67,
     "name": "Rimii Kishioka",
     "points": 3840
    },
    {
-    "rank": 67,
+    "rank": 68,
     "name": "Magical Sharing ",
     "points": 3760
    },
    {
-    "rank": 68,
+    "rank": 69,
     "name": "~MW~",
     "points": 3675
    },
    {
-    "rank": 69,
+    "rank": 70,
     "name": "K8",
     "points": 3550
    },
    {
-    "rank": 70,
+    "rank": 71,
     "name": "Tem",
     "points": 3490
    },
    {
-    "rank": 71,
+    "rank": 72,
     "name": "Laners",
     "points": 3470
-   },
-   {
-    "rank": 72,
-    "name": "Bonjo",
-    "points": 3450
    },
    {
     "rank": 73,
@@ -6850,38 +6855,38 @@
    },
    {
     "rank": 82,
+    "name": "Ryan Wilkins",
+    "points": 3030
+   },
+   {
+    "rank": 83,
     "name": "Alyssa F",
     "points": 3020
    },
    {
-    "rank": 83,
+    "rank": 84,
     "name": "William Chung-Hoon",
     "points": 3005
    },
    {
-    "rank": 84,
+    "rank": 85,
     "name": "Rhees’s Pieces",
     "points": 3000
    },
    {
-    "rank": 85,
+    "rank": 86,
     "name": "Georgia Bay",
     "points": 2920
    },
    {
-    "rank": 86,
+    "rank": 87,
     "name": "Kiera Babcock",
     "points": 2880
    },
    {
-    "rank": 87,
+    "rank": 88,
     "name": "Grace Rowell",
     "points": 2845
-   },
-   {
-    "rank": 88,
-    "name": "Ryan Wilkins",
-    "points": 2830
    },
    {
     "rank": 89,
