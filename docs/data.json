@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:00:00.053381-07:00",
+ "updated": "2026-11-12T21:40:00.054350-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -6409,18 +6409,18 @@
    },
    {
     "rank": 3,
+    "name": "Abby V",
+    "points": 19820
+   },
+   {
+    "rank": 4,
     "name": "Bigmike24213",
     "points": 19421
    },
    {
-    "rank": 4,
+    "rank": 5,
     "name": "Eric Anderson (The Crab)",
     "points": 19397
-   },
-   {
-    "rank": 5,
-    "name": "Abby V",
-    "points": 19270
    },
    {
     "rank": 6,
@@ -6455,7 +6455,7 @@
    {
     "rank": 12,
     "name": "Nora Cook",
-    "points": 14290
+    "points": 14295
    },
    {
     "rank": 13,
@@ -6465,7 +6465,7 @@
    {
     "rank": 14,
     "name": "Calasley",
-    "points": 12880
+    "points": 13190
    },
    {
     "rank": 15,
@@ -6490,7 +6490,7 @@
    {
     "rank": 19,
     "name": "Fer",
-    "points": 9430
+    "points": 9790
    },
    {
     "rank": 20,
@@ -6514,28 +6514,28 @@
    },
    {
     "rank": 24,
+    "name": "Eva-the-bookwyrm",
+    "points": 8185
+   },
+   {
+    "rank": 25,
     "name": "Anna Banana",
     "points": 8180
    },
    {
-    "rank": 25,
+    "rank": 26,
     "name": "PaigeWaca",
     "points": 7976
    },
    {
-    "rank": 26,
+    "rank": 27,
     "name": "Callie",
     "points": 7815
    },
    {
-    "rank": 27,
+    "rank": 28,
     "name": "Paola",
     "points": 7805
-   },
-   {
-    "rank": 28,
-    "name": "Eva-the-bookwyrm",
-    "points": 7735
    },
    {
     "rank": 29,
@@ -6614,23 +6614,23 @@
    },
    {
     "rank": 44,
+    "name": "Emiliano",
+    "points": 5890
+   },
+   {
+    "rank": 45,
     "name": "nani m :)",
     "points": 5800
    },
    {
-    "rank": 45,
+    "rank": 46,
     "name": "Ben M",
     "points": 5790
    },
    {
-    "rank": 46,
+    "rank": 47,
     "name": "ThaliaS",
     "points": 5595
-   },
-   {
-    "rank": 47,
-    "name": "Emiliano",
-    "points": 5540
    },
    {
     "rank": 48,
@@ -6869,23 +6869,23 @@
    },
    {
     "rank": 95,
+    "name": "MnM",
+    "points": 2585
+   },
+   {
+    "rank": 96,
     "name": "katiegail ",
     "points": 2525
    },
    {
-    "rank": 96,
+    "rank": 97,
     "name": "itsellieh",
     "points": 2510
    },
    {
-    "rank": 97,
+    "rank": 98,
     "name": "Quartz",
     "points": 2480
-   },
-   {
-    "rank": 98,
-    "name": "MnM",
-    "points": 2435
    },
    {
     "rank": 99,
@@ -6974,48 +6974,48 @@
    },
    {
     "rank": 116,
+    "name": "Emily Thrower",
+    "points": 2065
+   },
+   {
+    "rank": 117,
     "name": "Emily",
     "points": 2035
    },
    {
-    "rank": 117,
+    "rank": 118,
     "name": "Emilie",
     "points": 2030
    },
    {
-    "rank": 117,
+    "rank": 118,
     "name": "Kara",
     "points": 2030
    },
    {
-    "rank": 119,
+    "rank": 120,
     "name": "Johnny Rocket",
     "points": 2020
    },
    {
-    "rank": 120,
+    "rank": 121,
     "name": "ZoieA",
     "points": 2015
    },
    {
-    "rank": 121,
+    "rank": 122,
     "name": "Alyssa Johnson",
     "points": 2000
    },
    {
-    "rank": 122,
+    "rank": 123,
     "name": "mwelton",
     "points": 1995
    },
    {
-    "rank": 123,
+    "rank": 124,
     "name": "Sarbear ",
     "points": 1980
-   },
-   {
-    "rank": 124,
-    "name": "Emily Thrower",
-    "points": 1965
    },
    {
     "rank": 125,
@@ -7189,58 +7189,58 @@
    },
    {
     "rank": 159,
+    "name": "Bribri",
+    "points": 1475
+   },
+   {
+    "rank": 160,
     "name": "Ash",
     "points": 1470
    },
    {
-    "rank": 159,
-    "name": "Bribri",
-    "points": 1470
-   },
-   {
-    "rank": 159,
+    "rank": 160,
     "name": "Janet",
     "points": 1470
    },
    {
     "rank": 162,
+    "name": "Emma :)",
+    "points": 1465
+   },
+   {
+    "rank": 163,
     "name": "Kaden",
     "points": 1450
    },
    {
-    "rank": 163,
+    "rank": 164,
     "name": "essie",
     "points": 1430
    },
    {
-    "rank": 163,
+    "rank": 164,
     "name": "Kali",
     "points": 1430
    },
    {
-    "rank": 165,
+    "rank": 166,
     "name": "Stefaniya",
     "points": 1375
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Cassi Atwood :)",
     "points": 1370
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Hei Hei",
     "points": 1370
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Lexi",
     "points": 1370
-   },
-   {
-    "rank": 169,
-    "name": "Emma :)",
-    "points": 1365
    },
    {
     "rank": 170,
@@ -7324,51 +7324,51 @@
    },
    {
     "rank": 186,
+    "name": "Maylee",
+    "points": 1200
+   },
+   {
+    "rank": 187,
     "name": "leesay:)",
     "points": 1180
    },
    {
-    "rank": 186,
+    "rank": 187,
     "name": "Sadie",
     "points": 1180
    },
    {
-    "rank": 188,
+    "rank": 189,
     "name": "Joseph H",
     "points": 1170
    },
    {
-    "rank": 188,
+    "rank": 189,
     "name": "soph6",
     "points": 1170
    },
    {
-    "rank": 188,
+    "rank": 189,
     "name": "Thomas",
     "points": 1170
    },
    {
-    "rank": 191,
+    "rank": 192,
     "name": "Victoria ",
     "points": 1165
    },
    {
-    "rank": 192,
+    "rank": 193,
     "name": "Bailey ",
     "points": 1160
    },
    {
-    "rank": 192,
+    "rank": 193,
     "name": "Willy",
     "points": 1160
    },
    {
-    "rank": 194,
-    "name": "Maylee",
-    "points": 1150
-   },
-   {
-    "rank": 194,
+    "rank": 195,
     "name": "Spencer V",
     "points": 1150
    },
@@ -10673,6 +10673,6 @@
     "points": 10
    }
   ],
-  "outside_points": 147782
+  "outside_points": 150212
  }
 }
