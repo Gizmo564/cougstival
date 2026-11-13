@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:40:00.055567-07:00",
+ "updated": "2026-11-12T23:00:00.055127-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -6405,7 +6405,7 @@
    {
     "rank": 2,
     "name": "nat.mejia17",
-    "points": 20050
+    "points": 20200
    },
    {
     "rank": 3,
@@ -6639,18 +6639,18 @@
    },
    {
     "rank": 49,
+    "name": "Paige B)",
+    "points": 5390
+   },
+   {
+    "rank": 50,
     "name": "Eliza ",
     "points": 5230
    },
    {
-    "rank": 50,
+    "rank": 51,
     "name": "Alexander Peeni",
     "points": 5140
-   },
-   {
-    "rank": 51,
-    "name": "Paige B)",
-    "points": 5040
    },
    {
     "rank": 52,
@@ -10678,6 +10678,6 @@
     "points": 10
    }
   ],
-  "outside_points": 152932
+  "outside_points": 153432
  }
 }
