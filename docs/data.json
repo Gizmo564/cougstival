@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:20:00.054224-07:00",
+ "updated": "2026-11-14T10:00:00.054176-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7086,66 +7086,86 @@
     },
     {
      "rank": 2,
-     "name": "Eva-the-bookwyrm",
-     "points": 550
+     "name": "Lily",
+     "points": 950
     },
     {
      "rank": 3,
      "name": "lynspex",
-     "points": 500
+     "points": 850
     },
     {
      "rank": 4,
+     "name": "Eva-the-bookwyrm",
+     "points": 550
+    },
+    {
+     "rank": 5,
      "name": "Brooklynn Gleed ",
      "points": 450
     },
     {
-     "rank": 4,
+     "rank": 5,
      "name": "Paige B)",
      "points": 450
     },
     {
-     "rank": 6,
+     "rank": 7,
      "name": "Rachell",
      "points": 400
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "AndrewB",
      "points": 320
     },
     {
-     "rank": 8,
+     "rank": 9,
      "name": "Abby V",
      "points": 300
     },
     {
-     "rank": 9,
+     "rank": 10,
+     "name": "Bonjo",
+     "points": 250
+    },
+    {
+     "rank": 11,
      "name": "Eugene Poh",
      "points": 225
     },
     {
-     "rank": 10,
+     "rank": 12,
+     "name": "Bert_Y",
+     "points": 200
+    },
+    {
+     "rank": 12,
      "name": "helper4219",
      "points": 200
     },
     {
-     "rank": 10,
+     "rank": 12,
      "name": "Lucy😃",
      "points": 200
     },
     {
-     "rank": 10,
+     "rank": 12,
      "name": "Marshall Doutt",
      "points": 200
     },
     {
-     "rank": 10,
+     "rank": 12,
      "name": "megaroni",
      "points": 200
     },
     {
-     "rank": 14,
+     "rank": 12,
+     "name": "wmhenry",
+     "points": 200
+    },
+    {
+     "rank": 18,
      "name": "soph6",
      "points": 100
     }
@@ -7296,13 +7316,13 @@
    },
    {
     "rank": 29,
-    "name": "Joanne N",
-    "points": 8795
+    "name": "Bonjo",
+    "points": 8990
    },
    {
     "rank": 30,
-    "name": "Bonjo",
-    "points": 8740
+    "name": "Joanne N",
+    "points": 8795
    },
    {
     "rank": 31,
@@ -7311,48 +7331,48 @@
    },
    {
     "rank": 32,
+    "name": "Lily",
+    "points": 8650
+   },
+   {
+    "rank": 33,
     "name": "Maddie Morris",
     "points": 8515
    },
    {
-    "rank": 33,
+    "rank": 34,
     "name": "Anna Banana",
     "points": 8480
    },
    {
-    "rank": 34,
+    "rank": 35,
+    "name": "lynspex",
+    "points": 8315
+   },
+   {
+    "rank": 36,
     "name": "PaigeWaca",
     "points": 7976
    },
    {
-    "rank": 35,
-    "name": "lynspex",
-    "points": 7965
-   },
-   {
-    "rank": 36,
+    "rank": 37,
     "name": "Emiliano",
     "points": 7940
    },
    {
-    "rank": 37,
+    "rank": 38,
     "name": "Callie",
     "points": 7815
    },
    {
-    "rank": 38,
+    "rank": 39,
     "name": "Paola",
     "points": 7805
    },
    {
-    "rank": 39,
+    "rank": 40,
     "name": "jen",
     "points": 7705
-   },
-   {
-    "rank": 40,
-    "name": "Lily",
-    "points": 7700
    },
    {
     "rank": 41,
@@ -7581,33 +7601,33 @@
    },
    {
     "rank": 86,
+    "name": "Bert_Y",
+    "points": 3470
+   },
+   {
+    "rank": 86,
     "name": "Laners",
     "points": 3470
    },
    {
-    "rank": 87,
+    "rank": 88,
     "name": "paigeb",
     "points": 3345
    },
    {
-    "rank": 88,
+    "rank": 89,
     "name": "Tippy",
     "points": 3325
    },
    {
-    "rank": 89,
+    "rank": 90,
     "name": "Taylin G",
     "points": 3310
    },
    {
-    "rank": 90,
+    "rank": 91,
     "name": "mwelton",
     "points": 3295
-   },
-   {
-    "rank": 91,
-    "name": "Bert_Y",
-    "points": 3270
    },
    {
     "rank": 92,
@@ -7741,18 +7761,18 @@
    },
    {
     "rank": 118,
+    "name": "wmhenry",
+    "points": 2445
+   },
+   {
+    "rank": 119,
     "name": "Syrena",
     "points": 2345
    },
    {
-    "rank": 119,
+    "rank": 120,
     "name": "Alisa Seegmiller",
     "points": 2280
-   },
-   {
-    "rank": 120,
-    "name": "wmhenry",
-    "points": 2245
    },
    {
     "rank": 121,
