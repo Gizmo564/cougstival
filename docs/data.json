@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:00:00.054678-07:00",
+ "updated": "2026-11-14T00:20:00.053175-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7078,7 +7078,13 @@
    "opens": "2026-11-14T00:00:00-07:00",
    "closes": "2026-11-14T14:00:00-07:00",
    "frozen": false,
-   "rows": []
+   "rows": [
+    {
+     "rank": 1,
+     "name": "Tem",
+     "points": 620
+    }
+   ]
   }
  ],
  "total": {
@@ -7445,53 +7451,53 @@
    },
    {
     "rank": 73,
+    "name": "Tem",
+    "points": 4410
+   },
+   {
+    "rank": 74,
     "name": "Magical Sharing ",
     "points": 4360
    },
    {
-    "rank": 74,
+    "rank": 75,
     "name": "ZoieA",
     "points": 4251
    },
    {
-    "rank": 75,
+    "rank": 76,
     "name": "MnM",
     "points": 4223
    },
    {
-    "rank": 76,
+    "rank": 77,
     "name": "Michelle B",
     "points": 4170
    },
    {
-    "rank": 77,
+    "rank": 78,
     "name": "~MW~",
     "points": 4125
    },
    {
-    "rank": 78,
+    "rank": 79,
     "name": "Enz.david32",
     "points": 4090
    },
    {
-    "rank": 79,
+    "rank": 80,
     "name": "ParkerJones",
     "points": 3910
    },
    {
-    "rank": 80,
+    "rank": 81,
     "name": "Bria Hammer",
     "points": 3850
    },
    {
-    "rank": 81,
+    "rank": 82,
     "name": "Rimii Kishioka",
     "points": 3840
-   },
-   {
-    "rank": 82,
-    "name": "Tem",
-    "points": 3790
    },
    {
     "rank": 83,
