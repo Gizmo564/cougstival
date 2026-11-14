@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:40:00.054278-07:00",
+ "updated": "2026-11-13T20:00:00.054333-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7100,13 +7100,13 @@
    },
    {
     "rank": 4,
-    "name": "Abby V",
-    "points": 23500
+    "name": "Eugene Poh",
+    "points": 23699
    },
    {
     "rank": 5,
-    "name": "Eugene Poh",
-    "points": 23499
+    "name": "Abby V",
+    "points": 23500
    },
    {
     "rank": 6,
@@ -7120,13 +7120,13 @@
    },
    {
     "rank": 8,
-    "name": "Macy Lym",
-    "points": 17651
+    "name": "Aiden Petersen ",
+    "points": 17726
    },
    {
     "rank": 9,
-    "name": "Aiden Petersen ",
-    "points": 17526
+    "name": "Macy Lym",
+    "points": 17651
    },
    {
     "rank": 10,
@@ -7210,13 +7210,13 @@
    },
    {
     "rank": 26,
-    "name": "Dave Meek",
-    "points": 9325
+    "name": "Eva-the-bookwyrm",
+    "points": 9511
    },
    {
     "rank": 27,
-    "name": "Eva-the-bookwyrm",
-    "points": 9311
+    "name": "Dave Meek",
+    "points": 9325
    },
    {
     "rank": 28,
@@ -11469,6 +11469,6 @@
     "points": 10
    }
   ],
-  "outside_points": 166573
+  "outside_points": 167173
  }
 }
