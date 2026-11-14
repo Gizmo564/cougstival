@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:00:00.053400-07:00",
+ "updated": "2026-11-14T01:20:00.053623-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7082,12 +7082,12 @@
     {
      "rank": 1,
      "name": "Tem",
-     "points": 1940
+     "points": 2250
     },
     {
      "rank": 2,
      "name": "Paige B)",
-     "points": 300
+     "points": 450
     },
     {
      "rank": 3,
@@ -7207,7 +7207,7 @@
    {
     "rank": 22,
     "name": "Paige B)",
-    "points": 10684
+    "points": 10834
    },
    {
     "rank": 23,
@@ -7366,23 +7366,23 @@
    },
    {
     "rank": 54,
+    "name": "Tem",
+    "points": 6040
+   },
+   {
+    "rank": 55,
     "name": "Eliza ",
     "points": 5930
    },
    {
-    "rank": 54,
+    "rank": 55,
     "name": "John Miller",
     "points": 5930
    },
    {
-    "rank": 56,
+    "rank": 57,
     "name": "nani m :)",
     "points": 5800
-   },
-   {
-    "rank": 57,
-    "name": "Tem",
-    "points": 5730
    },
    {
     "rank": 58,
