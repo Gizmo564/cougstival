@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:20:00.053623-07:00",
+ "updated": "2026-11-14T02:00:00.055744-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7082,7 +7082,7 @@
     {
      "rank": 1,
      "name": "Tem",
-     "points": 2250
+     "points": 2950
     },
     {
      "rank": 2,
@@ -7326,48 +7326,48 @@
    },
    {
     "rank": 46,
+    "name": "Tem",
+    "points": 6740
+   },
+   {
+    "rank": 47,
     "name": "Livy Lou ",
     "points": 6580
    },
    {
-    "rank": 47,
+    "rank": 48,
     "name": "Trevor J",
     "points": 6355
    },
    {
-    "rank": 48,
+    "rank": 49,
     "name": "Hazel H",
     "points": 6340
    },
    {
-    "rank": 48,
+    "rank": 49,
     "name": "Mimi Alomía ",
     "points": 6340
    },
    {
-    "rank": 50,
+    "rank": 51,
     "name": "Cindy Jessup",
     "points": 6315
    },
    {
-    "rank": 51,
+    "rank": 52,
     "name": "ThaliaS",
     "points": 6195
    },
    {
-    "rank": 52,
+    "rank": 53,
     "name": "Ben M",
     "points": 6080
    },
    {
-    "rank": 53,
+    "rank": 54,
     "name": "Andrew ",
     "points": 6075
-   },
-   {
-    "rank": 54,
-    "name": "Tem",
-    "points": 6040
    },
    {
     "rank": 55,
