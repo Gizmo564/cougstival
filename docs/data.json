@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:20:00.054743-07:00",
+ "updated": "2026-11-14T11:00:00.054524-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7082,92 +7082,112 @@
     {
      "rank": 1,
      "name": "Tem",
-     "points": 3060
+     "points": 3260
     },
     {
      "rank": 2,
+     "name": "Eva-the-bookwyrm",
+     "points": 1200
+    },
+    {
+     "rank": 3,
      "name": "Lily",
      "points": 1100
     },
     {
-     "rank": 3,
+     "rank": 4,
      "name": "lynspex",
      "points": 850
     },
     {
-     "rank": 4,
-     "name": "Eva-the-bookwyrm",
+     "rank": 5,
+     "name": "nat.mejia17",
      "points": 700
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Brooklynn Gleed ",
      "points": 450
     },
     {
-     "rank": 5,
+     "rank": 6,
      "name": "Paige B)",
      "points": 450
     },
     {
-     "rank": 7,
+     "rank": 8,
      "name": "Rachell",
      "points": 400
     },
     {
-     "rank": 8,
+     "rank": 9,
+     "name": "Abby V",
+     "points": 350
+    },
+    {
+     "rank": 10,
      "name": "AndrewB",
      "points": 320
     },
     {
-     "rank": 9,
-     "name": "Abby V",
-     "points": 300
-    },
-    {
-     "rank": 10,
+     "rank": 11,
      "name": "Bonjo",
      "points": 250
     },
     {
-     "rank": 11,
+     "rank": 12,
      "name": "Eugene Poh",
-     "points": 225
+     "points": 235
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "Bert_Y",
      "points": 200
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "helper4219",
      "points": 200
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "Lucy😃",
      "points": 200
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "Marshall Doutt",
      "points": 200
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "megaroni",
      "points": 200
     },
     {
-     "rank": 12,
+     "rank": 13,
      "name": "wmhenry",
      "points": 200
     },
     {
-     "rank": 18,
+     "rank": 19,
+     "name": "Daryn",
+     "points": 100
+    },
+    {
+     "rank": 19,
+     "name": "Nomin Bolor",
+     "points": 100
+    },
+    {
+     "rank": 19,
      "name": "soph6",
      "points": 100
+    },
+    {
+     "rank": 22,
+     "name": "Claire Daley",
+     "points": 10
     }
    ]
   }
@@ -7187,17 +7207,17 @@
    {
     "rank": 3,
     "name": "nat.mejia17",
-    "points": 24348
+    "points": 25048
    },
    {
     "rank": 4,
     "name": "Abby V",
-    "points": 24030
+    "points": 24080
    },
    {
     "rank": 5,
     "name": "Eugene Poh",
-    "points": 24014
+    "points": 24024
    },
    {
     "rank": 6,
@@ -7286,18 +7306,18 @@
    },
    {
     "rank": 23,
+    "name": "Eva-the-bookwyrm",
+    "points": 10711
+   },
+   {
+    "rank": 24,
     "name": "Bekahn",
     "points": 10565
    },
    {
-    "rank": 24,
-    "name": "Eva-the-bookwyrm",
-    "points": 10211
-   },
-   {
     "rank": 25,
     "name": "Claire Daley",
-    "points": 9970
+    "points": 9980
    },
    {
     "rank": 26,
@@ -7332,7 +7352,7 @@
    {
     "rank": 32,
     "name": "Daryn",
-    "points": 8680
+    "points": 8780
    },
    {
     "rank": 33,
@@ -7386,18 +7406,18 @@
    },
    {
     "rank": 43,
+    "name": "Tem",
+    "points": 7050
+   },
+   {
+    "rank": 44,
     "name": "Sage",
     "points": 7020
    },
    {
-    "rank": 44,
+    "rank": 45,
     "name": "Larkin",
     "points": 6925
-   },
-   {
-    "rank": 45,
-    "name": "Tem",
-    "points": 6850
    },
    {
     "rank": 46,
@@ -7771,13 +7791,13 @@
    },
    {
     "rank": 120,
-    "name": "Alisa Seegmiller",
-    "points": 2280
+    "name": "Nomin Bolor",
+    "points": 2315
    },
    {
     "rank": 121,
-    "name": "Nomin Bolor",
-    "points": 2215
+    "name": "Alisa Seegmiller",
+    "points": 2280
    },
    {
     "rank": 122,
