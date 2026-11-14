@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:00:00.054382-07:00",
+ "updated": "2026-11-14T09:20:00.054224-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7091,21 +7091,21 @@
     },
     {
      "rank": 3,
+     "name": "lynspex",
+     "points": 500
+    },
+    {
+     "rank": 4,
      "name": "Brooklynn Gleed ",
      "points": 450
     },
     {
-     "rank": 3,
+     "rank": 4,
      "name": "Paige B)",
      "points": 450
     },
     {
-     "rank": 5,
-     "name": "lynspex",
-     "points": 400
-    },
-    {
-     "rank": 5,
+     "rank": 6,
      "name": "Rachell",
      "points": 400
     },
@@ -7121,26 +7121,31 @@
     },
     {
      "rank": 9,
+     "name": "Eugene Poh",
+     "points": 225
+    },
+    {
+     "rank": 10,
      "name": "helper4219",
      "points": 200
     },
     {
-     "rank": 9,
+     "rank": 10,
+     "name": "Lucy😃",
+     "points": 200
+    },
+    {
+     "rank": 10,
      "name": "Marshall Doutt",
      "points": 200
     },
     {
-     "rank": 9,
+     "rank": 10,
      "name": "megaroni",
      "points": 200
     },
     {
-     "rank": 12,
-     "name": "Eugene Poh",
-     "points": 150
-    },
-    {
-     "rank": 13,
+     "rank": 14,
      "name": "soph6",
      "points": 100
     }
@@ -7172,7 +7177,7 @@
    {
     "rank": 5,
     "name": "Eugene Poh",
-    "points": 23939
+    "points": 24014
    },
    {
     "rank": 6,
@@ -7321,13 +7326,13 @@
    },
    {
     "rank": 35,
-    "name": "Emiliano",
-    "points": 7940
+    "name": "lynspex",
+    "points": 7965
    },
    {
     "rank": 36,
-    "name": "lynspex",
-    "points": 7865
+    "name": "Emiliano",
+    "points": 7940
    },
    {
     "rank": 37,
@@ -7881,118 +7886,118 @@
    },
    {
     "rank": 147,
+    "name": "Lucy😃",
+    "points": 1800
+   },
+   {
+    "rank": 148,
     "name": "Dave",
     "points": 1790
    },
    {
-    "rank": 147,
+    "rank": 148,
     "name": "Molly",
     "points": 1790
    },
    {
-    "rank": 149,
+    "rank": 150,
     "name": "Spencer Shores",
     "points": 1730
    },
    {
-    "rank": 150,
+    "rank": 151,
     "name": "Aship",
     "points": 1720
    },
    {
-    "rank": 150,
+    "rank": 151,
     "name": "Jeffer",
     "points": 1720
    },
    {
-    "rank": 150,
+    "rank": 151,
     "name": "soph6",
     "points": 1720
    },
    {
-    "rank": 153,
+    "rank": 154,
     "name": "Ian",
     "points": 1690
    },
    {
-    "rank": 154,
+    "rank": 155,
     "name": "Aubs",
     "points": 1685
    },
    {
-    "rank": 155,
+    "rank": 156,
     "name": "Avery Bo Bavery",
     "points": 1680
    },
    {
-    "rank": 155,
+    "rank": 156,
     "name": "essie",
     "points": 1680
    },
    {
-    "rank": 157,
+    "rank": 158,
     "name": "Landen Hansen",
     "points": 1673
    },
    {
-    "rank": 158,
+    "rank": 159,
     "name": "Bitsybop",
     "points": 1670
    },
    {
-    "rank": 158,
+    "rank": 159,
     "name": "Carter T.",
     "points": 1670
    },
    {
-    "rank": 158,
+    "rank": 159,
     "name": "Fal",
     "points": 1670
    },
    {
-    "rank": 161,
+    "rank": 162,
     "name": "Willy",
     "points": 1660
    },
    {
-    "rank": 162,
+    "rank": 163,
     "name": "Hollywood ",
     "points": 1650
    },
    {
-    "rank": 162,
+    "rank": 163,
     "name": "Leandra Holley",
     "points": 1650
    },
    {
-    "rank": 164,
+    "rank": 165,
     "name": "Cyrena",
     "points": 1640
    },
    {
-    "rank": 164,
+    "rank": 165,
     "name": "May",
     "points": 1640
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "EG",
     "points": 1620
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "Lexi",
     "points": 1620
    },
    {
-    "rank": 166,
+    "rank": 167,
     "name": "McKay ",
     "points": 1620
-   },
-   {
-    "rank": 169,
-    "name": "Lucy😃",
-    "points": 1600
    },
    {
     "rank": 170,
