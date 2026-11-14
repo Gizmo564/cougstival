@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:40:00.053777-07:00",
+ "updated": "2026-11-13T18:00:00.054154-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7106,7 +7106,7 @@
    {
     "rank": 5,
     "name": "Eugene Poh",
-    "points": 23239
+    "points": 23249
    },
    {
     "rank": 6,
@@ -7135,13 +7135,13 @@
    },
    {
     "rank": 11,
-    "name": "Madmonney",
-    "points": 16569
+    "name": "Macy Lym",
+    "points": 16601
    },
    {
     "rank": 12,
-    "name": "Macy Lym",
-    "points": 16401
+    "name": "Madmonney",
+    "points": 16569
    },
    {
     "rank": 13,
@@ -7156,7 +7156,7 @@
    {
     "rank": 15,
     "name": "Jace the Ace",
-    "points": 15598
+    "points": 15848
    },
    {
     "rank": 16,
@@ -7231,7 +7231,7 @@
    {
     "rank": 30,
     "name": "Daryn",
-    "points": 8580
+    "points": 8680
    },
    {
     "rank": 31,
@@ -7495,43 +7495,43 @@
    },
    {
     "rank": 83,
+    "name": "Elly Shumaker",
+    "points": 3490
+   },
+   {
+    "rank": 84,
     "name": "Laners",
     "points": 3470
    },
    {
-    "rank": 84,
+    "rank": 85,
     "name": "Joshua J",
     "points": 3455
    },
    {
-    "rank": 85,
+    "rank": 86,
     "name": "Rachell",
     "points": 3430
    },
    {
-    "rank": 86,
+    "rank": 87,
     "name": "mwelton",
     "points": 3345
    },
    {
-    "rank": 86,
+    "rank": 87,
     "name": "paigeb",
     "points": 3345
    },
    {
-    "rank": 88,
+    "rank": 89,
     "name": "Tippy",
     "points": 3325
    },
    {
-    "rank": 89,
+    "rank": 90,
     "name": "Taylin G",
     "points": 3310
-   },
-   {
-    "rank": 90,
-    "name": "Elly Shumaker",
-    "points": 3290
    },
    {
     "rank": 91,
@@ -7570,43 +7570,43 @@
    },
    {
     "rank": 98,
+    "name": "Quartz",
+    "points": 3030
+   },
+   {
+    "rank": 99,
     "name": "Alyssa F",
     "points": 3020
    },
    {
-    "rank": 99,
+    "rank": 100,
     "name": "Rhees’s Pieces",
     "points": 3000
    },
    {
-    "rank": 100,
+    "rank": 101,
     "name": "Georgia Bay",
     "points": 2920
    },
    {
-    "rank": 101,
+    "rank": 102,
     "name": "Isabel",
     "points": 2910
    },
    {
-    "rank": 102,
+    "rank": 103,
     "name": "SavServes",
     "points": 2900
    },
    {
-    "rank": 103,
+    "rank": 104,
     "name": "Kita ",
     "points": 2870
    },
    {
-    "rank": 104,
+    "rank": 105,
     "name": "Grace Rowell",
     "points": 2845
-   },
-   {
-    "rank": 105,
-    "name": "Quartz",
-    "points": 2780
    },
    {
     "rank": 106,
@@ -11469,6 +11469,6 @@
     "points": 10
    }
   ],
-  "outside_points": 157043
+  "outside_points": 158053
  }
 }
