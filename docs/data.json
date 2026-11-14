@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:00:00.054154-07:00",
+ "updated": "2026-11-13T18:40:00.052972-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7101,7 +7101,7 @@
    {
     "rank": 4,
     "name": "Abby V",
-    "points": 23490
+    "points": 23500
    },
    {
     "rank": 5,
@@ -7116,27 +7116,27 @@
    {
     "rank": 7,
     "name": "Calasley",
-    "points": 19292
+    "points": 19492
    },
    {
     "rank": 8,
+    "name": "Macy Lym",
+    "points": 17251
+   },
+   {
+    "rank": 9,
     "name": "Ryan Wilkins",
     "points": 17225
    },
    {
-    "rank": 9,
+    "rank": 10,
     "name": "Tiago Bettencourt",
     "points": 16940
    },
    {
-    "rank": 10,
+    "rank": 11,
     "name": "Aiden Petersen ",
     "points": 16876
-   },
-   {
-    "rank": 11,
-    "name": "Macy Lym",
-    "points": 16601
    },
    {
     "rank": 12,
@@ -7195,18 +7195,18 @@
    },
    {
     "rank": 23,
+    "name": "Paige B)",
+    "points": 10009
+   },
+   {
+    "rank": 24,
     "name": "Claire Daley",
     "points": 9970
    },
    {
-    "rank": 24,
+    "rank": 25,
     "name": "PatoB",
     "points": 9820
-   },
-   {
-    "rank": 25,
-    "name": "Paige B)",
-    "points": 9609
    },
    {
     "rank": 26,
@@ -7275,18 +7275,18 @@
    },
    {
     "rank": 39,
+    "name": "lynspex",
+    "points": 7465
+   },
+   {
+    "rank": 40,
     "name": "Lily",
     "points": 7400
    },
    {
-    "rank": 40,
+    "rank": 41,
     "name": "Kate F",
     "points": 7345
-   },
-   {
-    "rank": 41,
-    "name": "lynspex",
-    "points": 7315
    },
    {
     "rank": 42,
@@ -7385,18 +7385,18 @@
    },
    {
     "rank": 61,
+    "name": "Brooklynn Gleed ",
+    "points": 5142
+   },
+   {
+    "rank": 62,
     "name": "Ty B",
     "points": 5110
    },
    {
-    "rank": 62,
+    "rank": 63,
     "name": "Ainsley",
     "points": 5080
-   },
-   {
-    "rank": 63,
-    "name": "Brooklynn Gleed ",
-    "points": 4892
    },
    {
     "rank": 64,
@@ -7490,36 +7490,36 @@
    },
    {
     "rank": 82,
+    "name": "Joshua J",
+    "points": 3715
+   },
+   {
+    "rank": 83,
     "name": "Bria Hammer",
     "points": 3700
    },
    {
-    "rank": 83,
+    "rank": 84,
+    "name": "mwelton",
+    "points": 3495
+   },
+   {
+    "rank": 85,
     "name": "Elly Shumaker",
     "points": 3490
    },
    {
-    "rank": 84,
+    "rank": 86,
     "name": "Laners",
     "points": 3470
    },
    {
-    "rank": 85,
-    "name": "Joshua J",
-    "points": 3455
-   },
-   {
-    "rank": 86,
+    "rank": 87,
     "name": "Rachell",
     "points": 3430
    },
    {
-    "rank": 87,
-    "name": "mwelton",
-    "points": 3345
-   },
-   {
-    "rank": 87,
+    "rank": 88,
     "name": "paigeb",
     "points": 3345
    },
@@ -11469,6 +11469,6 @@
     "points": 10
    }
   ],
-  "outside_points": 158053
+  "outside_points": 160323
  }
 }
