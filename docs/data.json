@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:00:00.053256-07:00",
+ "updated": "2026-11-14T13:20:00.053024-07:00",
  "config_key": "[\"32d9bad8-74f8-4481-bc72-18163ad5b47f\", \"America/Denver\", [{\"close\": \"2026-11-09T17:00\", \"name\": \"Monday\", \"open\": \"2026-11-09T00:00\"}, {\"close\": \"2026-11-10T17:00\", \"name\": \"Tuesday\", \"open\": \"2026-11-10T00:00\"}, {\"close\": \"2026-11-11T17:00\", \"name\": \"Wednesday\", \"open\": \"2026-11-11T00:00\"}, {\"close\": \"2026-11-12T17:00\", \"name\": \"Thursday\", \"open\": \"2026-11-12T00:00\"}, {\"close\": \"2026-11-13T17:00\", \"name\": \"Friday\", \"open\": \"2026-11-13T00:00\"}, {\"close\": \"2026-11-14T14:00\", \"name\": \"Saturday\", \"open\": \"2026-11-14T00:00\"}]]",
  "days": [
   {
@@ -7082,27 +7082,27 @@
     {
      "rank": 1,
      "name": "Tem",
-     "points": 5660
+     "points": 6060
     },
     {
      "rank": 2,
+     "name": "Lexi",
+     "points": 2100
+    },
+    {
+     "rank": 3,
      "name": "Eva-the-bookwyrm",
      "points": 2050
     },
     {
-     "rank": 3,
+     "rank": 4,
      "name": "Alina",
      "points": 1970
     },
     {
-     "rank": 4,
+     "rank": 5,
      "name": "Lily",
      "points": 1800
-    },
-    {
-     "rank": 5,
-     "name": "Lexi",
-     "points": 1700
     },
     {
      "rank": 6,
@@ -7111,68 +7111,68 @@
     },
     {
      "rank": 7,
+     "name": "Maddie Morris",
+     "points": 1461
+    },
+    {
+     "rank": 8,
      "name": "Paige B)",
      "points": 1451
     },
     {
-     "rank": 8,
+     "rank": 9,
+     "name": "Bonjo",
+     "points": 1300
+    },
+    {
+     "rank": 10,
      "name": "Abby V",
      "points": 1260
     },
     {
-     "rank": 9,
+     "rank": 11,
+     "name": "Aiden Petersen ",
+     "points": 1250
+    },
+    {
+     "rank": 12,
      "name": "Joanne N",
      "points": 1200
     },
     {
-     "rank": 9,
+     "rank": 12,
      "name": "Kasey C",
      "points": 1200
     },
     {
-     "rank": 11,
+     "rank": 14,
      "name": "Eugene Poh",
      "points": 1185
     },
     {
-     "rank": 12,
+     "rank": 15,
      "name": "Eric Anderson (The Crab)",
      "points": 1150
     },
     {
-     "rank": 13,
+     "rank": 16,
      "name": "K8",
      "points": 1110
     },
     {
-     "rank": 14,
-     "name": "Bonjo",
-     "points": 1100
-    },
-    {
-     "rank": 15,
-     "name": "Aiden Petersen ",
-     "points": 950
-    },
-    {
-     "rank": 15,
+     "rank": 17,
      "name": "nat.mejia17",
      "points": 950
     },
     {
-     "rank": 17,
+     "rank": 18,
      "name": "lynspex",
      "points": 850
     },
     {
-     "rank": 18,
-     "name": "Maddie Morris",
-     "points": 811
-    },
-    {
      "rank": 19,
      "name": "Taylin G",
-     "points": 720
+     "points": 770
     },
     {
      "rank": 20,
@@ -7291,16 +7291,21 @@
     },
     {
      "rank": 43,
+     "name": "William Chung-Hoon",
+     "points": 150
+    },
+    {
+     "rank": 44,
      "name": "Daryn",
      "points": 100
     },
     {
-     "rank": 43,
+     "rank": 44,
      "name": "soph6",
      "points": 100
     },
     {
-     "rank": 45,
+     "rank": 46,
      "name": "Claire Daley",
      "points": 10
     }
@@ -7347,7 +7352,7 @@
    {
     "rank": 8,
     "name": "Aiden Petersen ",
-    "points": 19296
+    "points": 19596
    },
    {
     "rank": 9,
@@ -7431,38 +7436,38 @@
    },
    {
     "rank": 25,
+    "name": "Bonjo",
+    "points": 10040
+   },
+   {
+    "rank": 26,
     "name": "Joanne N",
     "points": 9995
    },
    {
-    "rank": 26,
+    "rank": 27,
     "name": "Claire Daley",
     "points": 9980
    },
    {
-    "rank": 27,
-    "name": "Bonjo",
-    "points": 9840
+    "rank": 28,
+    "name": "Maddie Morris",
+    "points": 9976
    },
    {
-    "rank": 28,
+    "rank": 29,
+    "name": "Tem",
+    "points": 9850
+   },
+   {
+    "rank": 30,
     "name": "PatoB",
     "points": 9820
    },
    {
-    "rank": 29,
+    "rank": 31,
     "name": "Lily",
     "points": 9500
-   },
-   {
-    "rank": 30,
-    "name": "Tem",
-    "points": 9450
-   },
-   {
-    "rank": 31,
-    "name": "Maddie Morris",
-    "points": 9326
    },
    {
     "rank": 32,
@@ -7717,7 +7722,7 @@
    {
     "rank": 82,
     "name": "Taylin G",
-    "points": 4030
+    "points": 4080
    },
    {
     "rank": 83,
@@ -7746,38 +7751,38 @@
    },
    {
     "rank": 88,
+    "name": "Lexi",
+    "points": 3720
+   },
+   {
+    "rank": 89,
     "name": "Joshua J",
     "points": 3705
    },
    {
-    "rank": 89,
+    "rank": 90,
     "name": "Bert_Y",
     "points": 3470
    },
    {
-    "rank": 90,
+    "rank": 91,
+    "name": "William Chung-Hoon",
+    "points": 3405
+   },
+   {
+    "rank": 92,
     "name": "paigeb",
     "points": 3345
    },
    {
-    "rank": 91,
+    "rank": 93,
     "name": "Tippy",
     "points": 3325
    },
    {
-    "rank": 92,
-    "name": "Lexi",
-    "points": 3320
-   },
-   {
-    "rank": 93,
+    "rank": 94,
     "name": "mwelton",
     "points": 3295
-   },
-   {
-    "rank": 94,
-    "name": "William Chung-Hoon",
-    "points": 3255
    },
    {
     "rank": 95,
